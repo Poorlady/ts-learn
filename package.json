@@ -1,0 +1,14 @@
+{
+  "name": "typescript-practice-module",
+  "version": "1.0.0",
+  "description": "An app spesifically build to try typescript in real app application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alif Ekasmara",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
